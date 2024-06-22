@@ -7,3 +7,4 @@
 ![Снимок экрана 2024-05-15 140321](https://github.com/AndrewPomogaybo/Information-system-of-furniture-company/assets/133127409/87e4bb1c-6864-4d40-abe5-462e84c1ee11)
 ![Снимок экрана 2024-06-09 184203](https://github.com/AndrewPomogaybo/Information-system-of-furniture-company/assets/133127409/e79cf14a-865c-4ea1-af07-661d1bc86aaa)
 ![Снимок экрана 2024-06-17 104733](https://github.com/AndrewPomogaybo/Information-system-of-furniture-company/assets/133127409/5c6c5bfa-5925-4bef-ae04-615c1f038d39)
+![Uploading Снимок экрана 2024-06-09 185339.png…]()
