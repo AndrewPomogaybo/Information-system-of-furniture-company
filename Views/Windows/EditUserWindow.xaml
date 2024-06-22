@@ -1,0 +1,198 @@
+﻿<Window x:Class="ShopMetta.Views.Windows.EditUserWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ShopMetta.Views.Windows"
+        mc:Ignorable="d"
+        Title="EditUserWindow" Height="450" Width="600" WindowStartupLocation="CenterScreen" WindowStyle="None" MouseDown="Window_MouseDown" AllowsTransparency="True" Background="Transparent">
+    <Border Background="White" CornerRadius="30">
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="156*"/>
+                <ColumnDefinition Width="300*"/>
+                <ColumnDefinition Width="85*"/>
+                <ColumnDefinition Width="48*"/>
+                <ColumnDefinition Width="11*"/>
+            </Grid.ColumnDefinitions>
+
+            <Grid Grid.Column="3">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="12*"/>
+                    <RowDefinition Height="29*"/>
+                    <RowDefinition Height="409*"/>
+                </Grid.RowDefinitions>
+
+                <Grid Grid.Row="1">
+                    <Image Source="Assets/exit_icon.png" x:Name="exit" MouseLeftButtonDown="exit_MouseLeftButtonDown"/>
+                </Grid>
+
+            </Grid>
+
+            <Grid Grid.Column="1" Margin="0,0,22,0">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="6*"/>
+                    <RowDefinition Height="19*"/>
+                    <RowDefinition Height="7*"/>
+                    <RowDefinition Height="24*"/>
+                    <RowDefinition Height="7*"/>
+                    <RowDefinition Height="17*"/>
+                    <RowDefinition Height="8*"/>
+                    <RowDefinition Height="24*"/>
+                    <RowDefinition Height="9*"/>
+                    <RowDefinition Height="18*"/>
+                    <RowDefinition/>
+                    <RowDefinition Height="36*"/>
+                    <RowDefinition Height="0*"/>
+                    <RowDefinition Height="18*"/>
+                    <RowDefinition Height="6*"/>
+                    <RowDefinition Height="25*"/>
+                    <RowDefinition Height="7*"/>
+                    <RowDefinition Height="19*"/>
+                    <RowDefinition Height="5*"/>
+                    <RowDefinition Height="43*"/>
+                    <RowDefinition Height="41*"/>
+                    <RowDefinition Height="52*"/>
+                    <RowDefinition Height="58*"/>
+                </Grid.RowDefinitions>
+
+                <Grid Grid.Row="21">
+                    <Button Content="Редактировать" x:Name="Edit_btn" Background="#CCE5FF" FontSize ="30" Click="Edit_btn_Click">
+                        <Button.Resources>
+                            <Style TargetType="Border">
+                                <Setter Property="CornerRadius" Value="25"/>
+                            </Style>
+                        </Button.Resources>
+                    </Button>
+                </Grid>
+
+                <Grid Grid.Row="1">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="27*"/>
+                        <ColumnDefinition Width="120*"/>
+                        <ColumnDefinition Width="52*"/>
+                    </Grid.ColumnDefinitions>
+
+                    <Grid Grid.Column="1">
+                        <TextBlock Text="Имя" HorizontalAlignment="Center"/>
+                    </Grid>
+
+                </Grid>
+
+                <Grid Grid.Row="5">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="27*"/>
+                        <ColumnDefinition Width="120*"/>
+                        <ColumnDefinition Width="52*"/>
+                    </Grid.ColumnDefinitions>
+
+                    <Grid Grid.Column="1">
+                        <TextBlock Text="Фамилия" HorizontalAlignment="Center"/>
+                    </Grid>
+
+                </Grid>
+
+                <Grid Grid.Row="9" Margin="0,0,0,4">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="27*"/>
+                        <ColumnDefinition Width="120*"/>
+                        <ColumnDefinition Width="52*"/>
+                    </Grid.ColumnDefinitions>
+
+                    <Grid Grid.Column="1">
+                        <TextBlock Text="Пароль" HorizontalAlignment="Center"/>
+                    </Grid>
+                </Grid>
+
+                <Grid Grid.Row="11" Margin="0,35,0,0" Grid.RowSpan="3">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="27*"/>
+                        <ColumnDefinition Width="120*"/>
+                        <ColumnDefinition Width="52*"/>
+                    </Grid.ColumnDefinitions>
+
+                    <Grid Grid.Column="1">
+                        <TextBlock Text="Логин" HorizontalAlignment="Center"/>
+                    </Grid>
+                </Grid>
+
+                <Grid Grid.Row="17">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="27*"/>
+                        <ColumnDefinition Width="120*"/>
+                        <ColumnDefinition Width="52*"/>
+                    </Grid.ColumnDefinitions>
+
+                    <Grid Grid.Column="1">
+                        <TextBlock Text="Роль" HorizontalAlignment="Center"/>
+                    </Grid>
+                </Grid>
+
+                <Grid Grid.Row="20" Margin="0,7,0,26">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="27*"/>
+                        <ColumnDefinition Width="120*"/>
+                        <ColumnDefinition Width="52*"/>
+                    </Grid.ColumnDefinitions>
+
+
+                </Grid>
+
+
+
+                <Grid Grid.Row="3" Margin="0,0,0,1">
+                    <TextBox x:Name="name_txtbox" FontSize="20" TextAlignment="Center" PreviewTextInput="name_txtbox_PreviewTextInput">
+                        <TextBox.Resources>
+                            <Style TargetType="Border">
+                                <Setter Property="CornerRadius" Value="15"/>
+                            </Style>
+                        </TextBox.Resources>
+                    </TextBox>
+                </Grid>
+
+                <Grid Grid.Row="6" Margin="0,7,0,8" Grid.RowSpan="3">
+                    <TextBox x:Name="surname_txtbox" FontSize="20" TextAlignment="Center" PreviewTextInput="surname_txtbox_PreviewTextInput">
+                        <TextBox.Resources>
+                            <Style TargetType="Border">
+                                <Setter Property="CornerRadius" Value="15"/>
+                            </Style>
+                        </TextBox.Resources>
+                    </TextBox>
+                </Grid>
+
+                <Grid Grid.Row="11" Margin="0,3,0,1">
+                    <TextBox x:Name="pwd_txtbox" FontSize="20" TextAlignment="Center" PreviewTextInput="pwd_txtbox_PreviewTextInput">
+                        <TextBox.Resources>
+                            <Style TargetType="Border">
+                                <Setter Property="CornerRadius" Value="15"/>
+                            </Style>
+                        </TextBox.Resources>
+                    </TextBox>
+                </Grid>
+
+                <Grid Grid.Row="15">
+                    <TextBox x:Name="login_txtbox" FontSize="20" TextAlignment="Center" PreviewTextInput="login_txtbox_PreviewTextInput">
+                        <TextBox.Resources>
+                            <Style TargetType="Border">
+                                <Setter Property="CornerRadius" Value="15"/>
+                            </Style>
+                        </TextBox.Resources>
+                    </TextBox>
+                </Grid>
+
+                <Grid Grid.Row="19" Margin="0,1,0,0">
+                    <ComboBox x:Name="role_combobox" IsEditable="True" PreviewTextInput="role_combobox_PreviewTextInput">
+                        <ComboBoxItem Content="admin"/>
+                        <ComboBoxItem Content="seller"/>
+                        <ComboBoxItem Content="master"/>
+                    </ComboBox>
+                </Grid>
+
+
+
+            </Grid>
+
+        </Grid>
+    </Border>
+    
+</Window>

@@ -1,0 +1,397 @@
+C:\ShopMetta\bin\Debug\ShopMetta.exe.config
+C:\ShopMetta\bin\Debug\ShopMetta.exe
+C:\ShopMetta\bin\Debug\ShopMetta.pdb
+C:\ShopMetta\obj\Debug\ShopMetta.csproj.AssemblyReference.cache
+C:\ShopMetta\obj\Debug\App.g.cs
+C:\ShopMetta\obj\Debug\ShopMetta_MarkupCompile.cache
+C:\ShopMetta\obj\Debug\ShopMetta_MarkupCompile.lref
+C:\ShopMetta\obj\Debug\ShopMetta.g.resources
+C:\ShopMetta\obj\Debug\ShopMetta.Properties.Resources.resources
+C:\ShopMetta\obj\Debug\ShopMetta.csproj.GenerateResource.cache
+C:\ShopMetta\obj\Debug\ShopMetta.csproj.CoreCompileInputs.cache
+C:\ShopMetta\obj\Debug\ShopMetta.exe
+C:\ShopMetta\obj\Debug\ShopMetta.pdb
+C:\ShopMetta\obj\Debug\Views\Pages\StartPage.g.cs
+C:\ShopMetta\obj\Debug\Views\Pages\StartPage.baml
+C:\ShopMetta\obj\Debug\Views\Pages\ProductsPage.g.cs
+C:\ShopMetta\obj\Debug\Views\Pages\ProductsPage.baml
+C:\ShopMetta\obj\Debug\Views\Pages\ClientsPage.g.cs
+C:\ShopMetta\obj\Debug\Views\Pages\ClientsPage.baml
+C:\ShopMetta\obj\Debug\Views\Windows\SellerMenu.g.cs
+C:\ShopMetta\obj\Debug\Views\Windows\MainWindow.g.cs
+C:\ShopMetta\obj\Debug\Views\Windows\SellerMenu.baml
+C:\ShopMetta\obj\Debug\Views\Windows\MainWindow.baml
+C:\ShopMetta\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\ShopMetta\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\ShopMetta\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\ShopMetta\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\ShopMetta\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\ShopMetta\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\ShopMetta\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\ShopMetta\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\ShopMetta\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\ShopMetta\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\ShopMetta\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\ShopMetta\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\ShopMetta\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\ShopMetta\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\ShopMetta\bin\Debug\Microsoft.Extensions.Options.dll
+C:\ShopMetta\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\ShopMetta\bin\Debug\MySqlConnector.dll
+C:\ShopMetta\bin\Debug\Newtonsoft.Json.dll
+C:\ShopMetta\bin\Debug\Pomelo.EntityFrameworkCore.MySql.dll
+C:\ShopMetta\bin\Debug\Pomelo.JsonObject.dll
+C:\ShopMetta\bin\Debug\System.Buffers.dll
+C:\ShopMetta\bin\Debug\System.Collections.Immutable.dll
+C:\ShopMetta\bin\Debug\System.ComponentModel.Annotations.dll
+C:\ShopMetta\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\ShopMetta\bin\Debug\System.Memory.dll
+C:\ShopMetta\bin\Debug\System.Numerics.Vectors.dll
+C:\ShopMetta\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\ShopMetta\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\ShopMetta\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\ShopMetta\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\ShopMetta\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\ShopMetta\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\ShopMetta\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\ShopMetta\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\ShopMetta\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\ShopMetta\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\ShopMetta\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\ShopMetta\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\ShopMetta\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\ShopMetta\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\ShopMetta\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\ShopMetta\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\ShopMetta\bin\Debug\Microsoft.Extensions.Options.xml
+C:\ShopMetta\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\ShopMetta\bin\Debug\MySqlConnector.xml
+C:\ShopMetta\bin\Debug\Newtonsoft.Json.xml
+C:\ShopMetta\bin\Debug\Pomelo.EntityFrameworkCore.MySql.xml
+C:\ShopMetta\bin\Debug\System.Buffers.xml
+C:\ShopMetta\bin\Debug\System.Collections.Immutable.xml
+C:\ShopMetta\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\ShopMetta\bin\Debug\System.Memory.xml
+C:\ShopMetta\bin\Debug\System.Numerics.Vectors.xml
+C:\ShopMetta\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\ShopMetta\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\ShopMetta\obj\Debug\ShopMetta.csproj.CopyComplete
+C:\ShopMetta\obj\Debug\Views\Windows\AdminMenuWindow.g.cs
+C:\ShopMetta\obj\Debug\Views\Windows\AdminMenuWindow.baml
+C:\ShopMetta\obj\Debug\Views\Windows\AddProductsWindow.g.cs
+C:\ShopMetta\obj\Debug\Views\Windows\EditProductsWindow.g.cs
+C:\ShopMetta\obj\Debug\Views\Windows\AddProductsWindow.baml
+C:\ShopMetta\obj\Debug\Views\Windows\EditProductsWindow.baml
+C:\ShopMetta\obj\Debug\Views\Windows\MasterMenuWindow.g.cs
+C:\ShopMetta\obj\Debug\Views\Windows\MasterMenuWindow.baml
+C:\ShopMetta\obj\Debug\Views\Pages\BasketPage.g.cs
+C:\ShopMetta\obj\Debug\Views\Pages\MastersPage.g.cs
+C:\ShopMetta\obj\Debug\Views\Pages\BasketPage.baml
+C:\ShopMetta\obj\Debug\Views\Pages\MastersPage.baml
+C:\ShopMetta\obj\Debug\Views\Pages\OrderPage.g.cs
+C:\ShopMetta\obj\Debug\Views\Pages\OrderPage.baml
+C:\ShopMetta\obj\Debug\Views\Pages\CreateOrderPage.g.cs
+C:\ShopMetta\obj\Debug\Views\Pages\CreateOrderPage.baml
+C:\ShopMetta\obj\Debug\Views\Pages\BackupPage.g.cs
+C:\ShopMetta\obj\Debug\Views\Pages\UserPage.g.cs
+C:\ShopMetta\obj\Debug\Views\Pages\BackupPage.baml
+C:\ShopMetta\obj\Debug\Views\Pages\UserPage.baml
+C:\ShopMetta\obj\Debug\Views\Windows\AddUserWindow.g.cs
+C:\ShopMetta\obj\Debug\Views\Windows\AddUserWindow.baml
+C:\ShopMetta\obj\Debug\Views\Windows\EditUserWindow.g.cs
+C:\ShopMetta\obj\Debug\Views\Windows\EditUserWindow.baml
+C:\ShopMetta\obj\Debug\Views\Windows\AddClientWindow.g.cs
+C:\ShopMetta\obj\Debug\Views\Windows\AddClientWindow.baml
+C:\ShopMetta\obj\Debug\Views\Windows\EditClientWindow.g.cs
+C:\ShopMetta\obj\Debug\Views\Windows\EditClientWindow.baml
+C:\ShopMetta\obj\Debug\Views\Windows\Checkout.g.cs
+C:\ShopMetta\obj\Debug\Views\Windows\Checkout.baml
+C:\ShopMetta\bin\Debug\Xceed.Document.NET.dll
+C:\ShopMetta\bin\Debug\Xceed.Words.NET.dll
+C:\ShopMetta\obj\Debug\Views\Windows\EditOrderWindow.g.cs
+C:\ShopMetta\obj\Debug\Views\Windows\EditOrderWindow.baml
+C:\ShopMetta\obj\Debug\Views\Windows\AddMasterWindow.g.cs
+C:\ShopMetta\obj\Debug\Views\Windows\AddMasterWindow.baml
+C:\ShopMetta\obj\Debug\Views\Windows\EditMasterWindow.g.cs
+C:\ShopMetta\obj\Debug\Views\Windows\EditMasterWindow.baml
+C:\ShopMetta\bin\Debug\MySql.Data.dll
+C:\ShopMetta\obj\Debug\Views\Windows\AddOrderCreateWindow.g.cs
+C:\ShopMetta\obj\Debug\Views\Windows\AddOrderCreateWindow.baml
+C:\ShopMetta\obj\Debug\Views\Windows\EditOrderCreationWindow.g.cs
+C:\ShopMetta\obj\Debug\Views\Windows\EditOrderCreationWindow.baml
+C:\ShopMetta\obj\Debug\Views\Windows\EditCreationForSellerWindow.g.cs
+C:\ShopMetta\obj\Debug\Views\Windows\EditCreationForSellerWindow.baml
+C:\ShopMetta\obj\Debug\Views\Windows\StatisticWindow.g.cs
+C:\ShopMetta\obj\Debug\Views\Windows\StatisticWindow.baml
+C:\ShopMetta\obj\Debug\Views\Pages\StatisticPage.g.cs
+C:\ShopMetta\obj\Debug\Views\Pages\StatisticPage.baml
+C:\ShopMetta\obj\Debug\Views\Windows\MoreInfoWindow.g.cs
+C:\ShopMetta\obj\Debug\Views\Windows\MoreInfoWindow.baml
+C:\ShopMetta\obj\Debug\Views\Windows\InfoOrderWindow.g.cs
+C:\ShopMetta\obj\Debug\Views\Windows\InfoOrderWindow.baml
+C:\Users\pomog\Desktop\ВКР\Программа\ShopMetta\bin\Debug\ShopMetta.exe.config
+C:\Users\pomog\Desktop\ВКР\Программа\ShopMetta\bin\Debug\ShopMetta.exe
+C:\Users\pomog\Desktop\ВКР\Программа\ShopMetta\bin\Debug\ShopMetta.pdb
+C:\Users\pomog\Desktop\ВКР\Программа\ShopMetta\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\pomog\Desktop\ВКР\Программа\ShopMetta\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\pomog\Desktop\ВКР\Программа\ShopMetta\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\pomog\Desktop\ВКР\Программа\ShopMetta\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\pomog\Desktop\ВКР\Программа\ShopMetta\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\pomog\Desktop\ВКР\Программа\ShopMetta\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\pomog\Desktop\ВКР\Программа\ShopMetta\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\pomog\Desktop\ВКР\Программа\ShopMetta\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\pomog\Desktop\ВКР\Программа\ShopMetta\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\pomog\Desktop\ВКР\Программа\ShopMetta\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\pomog\Desktop\ВКР\Программа\ShopMetta\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\pomog\Desktop\ВКР\Программа\ShopMetta\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\pomog\Desktop\ВКР\Программа\ShopMetta\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\pomog\Desktop\ВКР\Программа\ShopMetta\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\pomog\Desktop\ВКР\Программа\ShopMetta\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\pomog\Desktop\ВКР\Программа\ShopMetta\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\pomog\Desktop\ВКР\Программа\ShopMetta\bin\Debug\MySql.Data.dll
+C:\Users\pomog\Desktop\ВКР\Программа\ShopMetta\bin\Debug\MySqlConnector.dll
+C:\Users\pomog\Desktop\ВКР\Программа\ShopMetta\bin\Debug\Newtonsoft.Json.dll
+C:\Users\pomog\Desktop\ВКР\Программа\ShopMetta\bin\Debug\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\pomog\Desktop\ВКР\Программа\ShopMetta\bin\Debug\Pomelo.JsonObject.dll
+C:\Users\pomog\Desktop\ВКР\Программа\ShopMetta\bin\Debug\System.Buffers.dll
+C:\Users\pomog\Desktop\ВКР\Программа\ShopMetta\bin\Debug\System.Collections.Immutable.dll
+C:\Users\pomog\Desktop\ВКР\Программа\ShopMetta\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\pomog\Desktop\ВКР\Программа\ShopMetta\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\pomog\Desktop\ВКР\Программа\ShopMetta\bin\Debug\System.Memory.dll
+C:\Users\pomog\Desktop\ВКР\Программа\ShopMetta\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\pomog\Desktop\ВКР\Программа\ShopMetta\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\pomog\Desktop\ВКР\Программа\ShopMetta\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\pomog\Desktop\ВКР\Программа\ShopMetta\bin\Debug\Xceed.Document.NET.dll
+C:\Users\pomog\Desktop\ВКР\Программа\ShopMetta\bin\Debug\Xceed.Words.NET.dll
+C:\Users\pomog\Desktop\ВКР\Программа\ShopMetta\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\pomog\Desktop\ВКР\Программа\ShopMetta\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\pomog\Desktop\ВКР\Программа\ShopMetta\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\pomog\Desktop\ВКР\Программа\ShopMetta\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\pomog\Desktop\ВКР\Программа\ShopMetta\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\pomog\Desktop\ВКР\Программа\ShopMetta\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\pomog\Desktop\ВКР\Программа\ShopMetta\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\pomog\Desktop\ВКР\Программа\ShopMetta\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\pomog\Desktop\ВКР\Программа\ShopMetta\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\pomog\Desktop\ВКР\Программа\ShopMetta\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\pomog\Desktop\ВКР\Программа\ShopMetta\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\pomog\Desktop\ВКР\Программа\ShopMetta\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\pomog\Desktop\ВКР\Программа\ShopMetta\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\pomog\Desktop\ВКР\Программа\ShopMetta\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\pomog\Desktop\ВКР\Программа\ShopMetta\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\pomog\Desktop\ВКР\Программа\ShopMetta\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\pomog\Desktop\ВКР\Программа\ShopMetta\bin\Debug\MySqlConnector.xml
+C:\Users\pomog\Desktop\ВКР\Программа\ShopMetta\bin\Debug\Newtonsoft.Json.xml
+C:\Users\pomog\Desktop\ВКР\Программа\ShopMetta\bin\Debug\Pomelo.EntityFrameworkCore.MySql.xml
+C:\Users\pomog\Desktop\ВКР\Программа\ShopMetta\bin\Debug\System.Buffers.xml
+C:\Users\pomog\Desktop\ВКР\Программа\ShopMetta\bin\Debug\System.Collections.Immutable.xml
+C:\Users\pomog\Desktop\ВКР\Программа\ShopMetta\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\pomog\Desktop\ВКР\Программа\ShopMetta\bin\Debug\System.Memory.xml
+C:\Users\pomog\Desktop\ВКР\Программа\ShopMetta\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\pomog\Desktop\ВКР\Программа\ShopMetta\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\pomog\Desktop\ВКР\Программа\ShopMetta\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\pomog\Desktop\ВКР\Программа\ShopMetta\obj\Debug\ShopMetta.csproj.AssemblyReference.cache
+C:\Users\pomog\Desktop\ВКР\Программа\ShopMetta\obj\Debug\Views\Pages\BackupPage.g.cs
+C:\Users\pomog\Desktop\ВКР\Программа\ShopMetta\obj\Debug\Views\Pages\BasketPage.g.cs
+C:\Users\pomog\Desktop\ВКР\Программа\ShopMetta\obj\Debug\Views\Pages\CreateOrderPage.g.cs
+C:\Users\pomog\Desktop\ВКР\Программа\ShopMetta\obj\Debug\Views\Pages\MastersPage.g.cs
+C:\Users\pomog\Desktop\ВКР\Программа\ShopMetta\obj\Debug\Views\Pages\OrderPage.g.cs
+C:\Users\pomog\Desktop\ВКР\Программа\ShopMetta\obj\Debug\Views\Pages\StatisticPage.g.cs
+C:\Users\pomog\Desktop\ВКР\Программа\ShopMetta\obj\Debug\Views\Pages\UserPage.g.cs
+C:\Users\pomog\Desktop\ВКР\Программа\ShopMetta\obj\Debug\Views\Windows\AddClientWindow.g.cs
+C:\Users\pomog\Desktop\ВКР\Программа\ShopMetta\obj\Debug\Views\Windows\AddMasterWindow.g.cs
+C:\Users\pomog\Desktop\ВКР\Программа\ShopMetta\obj\Debug\Views\Windows\AddOrderCreateWindow.g.cs
+C:\Users\pomog\Desktop\ВКР\Программа\ShopMetta\obj\Debug\Views\Windows\AddProductsWindow.g.cs
+C:\Users\pomog\Desktop\ВКР\Программа\ShopMetta\obj\Debug\Views\Windows\AddUserWindow.g.cs
+C:\Users\pomog\Desktop\ВКР\Программа\ShopMetta\obj\Debug\Views\Windows\AdminMenuWindow.g.cs
+C:\Users\pomog\Desktop\ВКР\Программа\ShopMetta\obj\Debug\Views\Pages\ClientsPage.g.cs
+C:\Users\pomog\Desktop\ВКР\Программа\ShopMetta\obj\Debug\Views\Windows\Checkout.g.cs
+C:\Users\pomog\Desktop\ВКР\Программа\ShopMetta\obj\Debug\Views\Windows\EditClientWindow.g.cs
+C:\Users\pomog\Desktop\ВКР\Программа\ShopMetta\obj\Debug\Views\Windows\EditCreationForSellerWindow.g.cs
+C:\Users\pomog\Desktop\ВКР\Программа\ShopMetta\obj\Debug\Views\Windows\EditMasterWindow.g.cs
+C:\Users\pomog\Desktop\ВКР\Программа\ShopMetta\obj\Debug\Views\Windows\EditOrderCreationWindow.g.cs
+C:\Users\pomog\Desktop\ВКР\Программа\ShopMetta\obj\Debug\Views\Windows\EditOrderWindow.g.cs
+C:\Users\pomog\Desktop\ВКР\Программа\ShopMetta\obj\Debug\Views\Windows\EditProductsWindow.g.cs
+C:\Users\pomog\Desktop\ВКР\Программа\ShopMetta\obj\Debug\Views\Windows\EditUserWindow.g.cs
+C:\Users\pomog\Desktop\ВКР\Программа\ShopMetta\obj\Debug\Views\Windows\InfoOrderWindow.g.cs
+C:\Users\pomog\Desktop\ВКР\Программа\ShopMetta\obj\Debug\Views\Windows\MasterMenuWindow.g.cs
+C:\Users\pomog\Desktop\ВКР\Программа\ShopMetta\obj\Debug\Views\Windows\MoreInfoWindow.g.cs
+C:\Users\pomog\Desktop\ВКР\Программа\ShopMetta\obj\Debug\Views\Windows\SellerMenu.g.cs
+C:\Users\pomog\Desktop\ВКР\Программа\ShopMetta\obj\Debug\Views\Windows\MainWindow.g.cs
+C:\Users\pomog\Desktop\ВКР\Программа\ShopMetta\obj\Debug\Views\Pages\ProductsPage.g.cs
+C:\Users\pomog\Desktop\ВКР\Программа\ShopMetta\obj\Debug\Views\Pages\StartPage.g.cs
+C:\Users\pomog\Desktop\ВКР\Программа\ShopMetta\obj\Debug\Views\Windows\StatisticWindow.g.cs
+C:\Users\pomog\Desktop\ВКР\Программа\ShopMetta\obj\Debug\App.g.cs
+C:\Users\pomog\Desktop\ВКР\Программа\ShopMetta\obj\Debug\ShopMetta_MarkupCompile.cache
+C:\Users\pomog\Desktop\ВКР\Программа\ShopMetta\obj\Debug\ShopMetta_MarkupCompile.lref
+C:\Users\pomog\Desktop\ВКР\Программа\ShopMetta\obj\Debug\Views\Pages\BackupPage.baml
+C:\Users\pomog\Desktop\ВКР\Программа\ShopMetta\obj\Debug\Views\Pages\BasketPage.baml
+C:\Users\pomog\Desktop\ВКР\Программа\ShopMetta\obj\Debug\Views\Pages\CreateOrderPage.baml
+C:\Users\pomog\Desktop\ВКР\Программа\ShopMetta\obj\Debug\Views\Pages\MastersPage.baml
+C:\Users\pomog\Desktop\ВКР\Программа\ShopMetta\obj\Debug\Views\Pages\OrderPage.baml
+C:\Users\pomog\Desktop\ВКР\Программа\ShopMetta\obj\Debug\Views\Pages\StatisticPage.baml
+C:\Users\pomog\Desktop\ВКР\Программа\ShopMetta\obj\Debug\Views\Pages\UserPage.baml
+C:\Users\pomog\Desktop\ВКР\Программа\ShopMetta\obj\Debug\Views\Windows\AddClientWindow.baml
+C:\Users\pomog\Desktop\ВКР\Программа\ShopMetta\obj\Debug\Views\Windows\AddMasterWindow.baml
+C:\Users\pomog\Desktop\ВКР\Программа\ShopMetta\obj\Debug\Views\Windows\AddOrderCreateWindow.baml
+C:\Users\pomog\Desktop\ВКР\Программа\ShopMetta\obj\Debug\Views\Windows\AddProductsWindow.baml
+C:\Users\pomog\Desktop\ВКР\Программа\ShopMetta\obj\Debug\Views\Windows\AddUserWindow.baml
+C:\Users\pomog\Desktop\ВКР\Программа\ShopMetta\obj\Debug\Views\Windows\AdminMenuWindow.baml
+C:\Users\pomog\Desktop\ВКР\Программа\ShopMetta\obj\Debug\Views\Pages\ClientsPage.baml
+C:\Users\pomog\Desktop\ВКР\Программа\ShopMetta\obj\Debug\Views\Windows\Checkout.baml
+C:\Users\pomog\Desktop\ВКР\Программа\ShopMetta\obj\Debug\Views\Windows\EditClientWindow.baml
+C:\Users\pomog\Desktop\ВКР\Программа\ShopMetta\obj\Debug\Views\Windows\EditCreationForSellerWindow.baml
+C:\Users\pomog\Desktop\ВКР\Программа\ShopMetta\obj\Debug\Views\Windows\EditMasterWindow.baml
+C:\Users\pomog\Desktop\ВКР\Программа\ShopMetta\obj\Debug\Views\Windows\EditOrderCreationWindow.baml
+C:\Users\pomog\Desktop\ВКР\Программа\ShopMetta\obj\Debug\Views\Windows\EditOrderWindow.baml
+C:\Users\pomog\Desktop\ВКР\Программа\ShopMetta\obj\Debug\Views\Windows\EditProductsWindow.baml
+C:\Users\pomog\Desktop\ВКР\Программа\ShopMetta\obj\Debug\Views\Windows\EditUserWindow.baml
+C:\Users\pomog\Desktop\ВКР\Программа\ShopMetta\obj\Debug\Views\Windows\InfoOrderWindow.baml
+C:\Users\pomog\Desktop\ВКР\Программа\ShopMetta\obj\Debug\Views\Windows\MasterMenuWindow.baml
+C:\Users\pomog\Desktop\ВКР\Программа\ShopMetta\obj\Debug\Views\Windows\MoreInfoWindow.baml
+C:\Users\pomog\Desktop\ВКР\Программа\ShopMetta\obj\Debug\Views\Windows\SellerMenu.baml
+C:\Users\pomog\Desktop\ВКР\Программа\ShopMetta\obj\Debug\Views\Windows\MainWindow.baml
+C:\Users\pomog\Desktop\ВКР\Программа\ShopMetta\obj\Debug\Views\Pages\ProductsPage.baml
+C:\Users\pomog\Desktop\ВКР\Программа\ShopMetta\obj\Debug\Views\Pages\StartPage.baml
+C:\Users\pomog\Desktop\ВКР\Программа\ShopMetta\obj\Debug\Views\Windows\StatisticWindow.baml
+C:\Users\pomog\Desktop\ВКР\Программа\ShopMetta\obj\Debug\ShopMetta.g.resources
+C:\Users\pomog\Desktop\ВКР\Программа\ShopMetta\obj\Debug\ShopMetta.Properties.Resources.resources
+C:\Users\pomog\Desktop\ВКР\Программа\ShopMetta\obj\Debug\ShopMetta.csproj.GenerateResource.cache
+C:\Users\pomog\Desktop\ВКР\Программа\ShopMetta\obj\Debug\ShopMetta.csproj.CoreCompileInputs.cache
+C:\Users\pomog\Desktop\ВКР\Программа\ShopMetta\obj\Debug\ShopMetta.csproj.CopyComplete
+C:\Users\pomog\Desktop\ВКР\Программа\ShopMetta\obj\Debug\ShopMetta.exe
+C:\Users\pomog\Desktop\ВКР\Программа\ShopMetta\obj\Debug\ShopMetta.pdb
+C:\Users\pomog\Desktop\ВКР\Программа\ShopMetta\obj\Debug\Views\Windows\ExportTableWindow.g.cs
+C:\Users\pomog\Desktop\ВКР\Программа\ShopMetta\obj\Debug\Views\Windows\ExportTableWindow.baml
+C:\Users\pomog\Desktop\ВКР Помогайбо А О\Программа\ShopMetta\bin\Debug\ShopMetta.exe.config
+C:\Users\pomog\Desktop\ВКР Помогайбо А О\Программа\ShopMetta\bin\Debug\ShopMetta.exe
+C:\Users\pomog\Desktop\ВКР Помогайбо А О\Программа\ShopMetta\bin\Debug\ShopMetta.pdb
+C:\Users\pomog\Desktop\ВКР Помогайбо А О\Программа\ShopMetta\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\pomog\Desktop\ВКР Помогайбо А О\Программа\ShopMetta\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\pomog\Desktop\ВКР Помогайбо А О\Программа\ShopMetta\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\pomog\Desktop\ВКР Помогайбо А О\Программа\ShopMetta\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\pomog\Desktop\ВКР Помогайбо А О\Программа\ShopMetta\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\pomog\Desktop\ВКР Помогайбо А О\Программа\ShopMetta\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\pomog\Desktop\ВКР Помогайбо А О\Программа\ShopMetta\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\pomog\Desktop\ВКР Помогайбо А О\Программа\ShopMetta\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\pomog\Desktop\ВКР Помогайбо А О\Программа\ShopMetta\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\pomog\Desktop\ВКР Помогайбо А О\Программа\ShopMetta\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\pomog\Desktop\ВКР Помогайбо А О\Программа\ShopMetta\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\pomog\Desktop\ВКР Помогайбо А О\Программа\ShopMetta\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\pomog\Desktop\ВКР Помогайбо А О\Программа\ShopMetta\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\pomog\Desktop\ВКР Помогайбо А О\Программа\ShopMetta\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\pomog\Desktop\ВКР Помогайбо А О\Программа\ShopMetta\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\pomog\Desktop\ВКР Помогайбо А О\Программа\ShopMetta\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\pomog\Desktop\ВКР Помогайбо А О\Программа\ShopMetta\bin\Debug\MySql.Data.dll
+C:\Users\pomog\Desktop\ВКР Помогайбо А О\Программа\ShopMetta\bin\Debug\MySqlConnector.dll
+C:\Users\pomog\Desktop\ВКР Помогайбо А О\Программа\ShopMetta\bin\Debug\Newtonsoft.Json.dll
+C:\Users\pomog\Desktop\ВКР Помогайбо А О\Программа\ShopMetta\bin\Debug\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\pomog\Desktop\ВКР Помогайбо А О\Программа\ShopMetta\bin\Debug\Pomelo.JsonObject.dll
+C:\Users\pomog\Desktop\ВКР Помогайбо А О\Программа\ShopMetta\bin\Debug\System.Buffers.dll
+C:\Users\pomog\Desktop\ВКР Помогайбо А О\Программа\ShopMetta\bin\Debug\System.Collections.Immutable.dll
+C:\Users\pomog\Desktop\ВКР Помогайбо А О\Программа\ShopMetta\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\pomog\Desktop\ВКР Помогайбо А О\Программа\ShopMetta\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\pomog\Desktop\ВКР Помогайбо А О\Программа\ShopMetta\bin\Debug\System.Memory.dll
+C:\Users\pomog\Desktop\ВКР Помогайбо А О\Программа\ShopMetta\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\pomog\Desktop\ВКР Помогайбо А О\Программа\ShopMetta\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\pomog\Desktop\ВКР Помогайбо А О\Программа\ShopMetta\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\pomog\Desktop\ВКР Помогайбо А О\Программа\ShopMetta\bin\Debug\Xceed.Document.NET.dll
+C:\Users\pomog\Desktop\ВКР Помогайбо А О\Программа\ShopMetta\bin\Debug\Xceed.Words.NET.dll
+C:\Users\pomog\Desktop\ВКР Помогайбо А О\Программа\ShopMetta\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\pomog\Desktop\ВКР Помогайбо А О\Программа\ShopMetta\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\pomog\Desktop\ВКР Помогайбо А О\Программа\ShopMetta\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\pomog\Desktop\ВКР Помогайбо А О\Программа\ShopMetta\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\pomog\Desktop\ВКР Помогайбо А О\Программа\ShopMetta\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\pomog\Desktop\ВКР Помогайбо А О\Программа\ShopMetta\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\pomog\Desktop\ВКР Помогайбо А О\Программа\ShopMetta\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\pomog\Desktop\ВКР Помогайбо А О\Программа\ShopMetta\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\pomog\Desktop\ВКР Помогайбо А О\Программа\ShopMetta\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\pomog\Desktop\ВКР Помогайбо А О\Программа\ShopMetta\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\pomog\Desktop\ВКР Помогайбо А О\Программа\ShopMetta\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\pomog\Desktop\ВКР Помогайбо А О\Программа\ShopMetta\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\pomog\Desktop\ВКР Помогайбо А О\Программа\ShopMetta\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\pomog\Desktop\ВКР Помогайбо А О\Программа\ShopMetta\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\pomog\Desktop\ВКР Помогайбо А О\Программа\ShopMetta\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\pomog\Desktop\ВКР Помогайбо А О\Программа\ShopMetta\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\pomog\Desktop\ВКР Помогайбо А О\Программа\ShopMetta\bin\Debug\MySqlConnector.xml
+C:\Users\pomog\Desktop\ВКР Помогайбо А О\Программа\ShopMetta\bin\Debug\Newtonsoft.Json.xml
+C:\Users\pomog\Desktop\ВКР Помогайбо А О\Программа\ShopMetta\bin\Debug\Pomelo.EntityFrameworkCore.MySql.xml
+C:\Users\pomog\Desktop\ВКР Помогайбо А О\Программа\ShopMetta\bin\Debug\System.Buffers.xml
+C:\Users\pomog\Desktop\ВКР Помогайбо А О\Программа\ShopMetta\bin\Debug\System.Collections.Immutable.xml
+C:\Users\pomog\Desktop\ВКР Помогайбо А О\Программа\ShopMetta\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\pomog\Desktop\ВКР Помогайбо А О\Программа\ShopMetta\bin\Debug\System.Memory.xml
+C:\Users\pomog\Desktop\ВКР Помогайбо А О\Программа\ShopMetta\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\pomog\Desktop\ВКР Помогайбо А О\Программа\ShopMetta\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\pomog\Desktop\ВКР Помогайбо А О\Программа\ShopMetta\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\pomog\Desktop\ВКР Помогайбо А О\Программа\ShopMetta\obj\Debug\ShopMetta.csproj.AssemblyReference.cache
+C:\Users\pomog\Desktop\ВКР Помогайбо А О\Программа\ShopMetta\obj\Debug\Views\Pages\BackupPage.g.cs
+C:\Users\pomog\Desktop\ВКР Помогайбо А О\Программа\ShopMetta\obj\Debug\Views\Pages\BasketPage.g.cs
+C:\Users\pomog\Desktop\ВКР Помогайбо А О\Программа\ShopMetta\obj\Debug\Views\Pages\CreateOrderPage.g.cs
+C:\Users\pomog\Desktop\ВКР Помогайбо А О\Программа\ShopMetta\obj\Debug\Views\Pages\MastersPage.g.cs
+C:\Users\pomog\Desktop\ВКР Помогайбо А О\Программа\ShopMetta\obj\Debug\Views\Pages\OrderPage.g.cs
+C:\Users\pomog\Desktop\ВКР Помогайбо А О\Программа\ShopMetta\obj\Debug\Views\Pages\StatisticPage.g.cs
+C:\Users\pomog\Desktop\ВКР Помогайбо А О\Программа\ShopMetta\obj\Debug\Views\Pages\UserPage.g.cs
+C:\Users\pomog\Desktop\ВКР Помогайбо А О\Программа\ShopMetta\obj\Debug\Views\Windows\AddClientWindow.g.cs
+C:\Users\pomog\Desktop\ВКР Помогайбо А О\Программа\ShopMetta\obj\Debug\Views\Windows\AddMasterWindow.g.cs
+C:\Users\pomog\Desktop\ВКР Помогайбо А О\Программа\ShopMetta\obj\Debug\Views\Windows\AddOrderCreateWindow.g.cs
+C:\Users\pomog\Desktop\ВКР Помогайбо А О\Программа\ShopMetta\obj\Debug\Views\Windows\AddProductsWindow.g.cs
+C:\Users\pomog\Desktop\ВКР Помогайбо А О\Программа\ShopMetta\obj\Debug\Views\Windows\AddUserWindow.g.cs
+C:\Users\pomog\Desktop\ВКР Помогайбо А О\Программа\ShopMetta\obj\Debug\Views\Windows\AdminMenuWindow.g.cs
+C:\Users\pomog\Desktop\ВКР Помогайбо А О\Программа\ShopMetta\obj\Debug\Views\Pages\ClientsPage.g.cs
+C:\Users\pomog\Desktop\ВКР Помогайбо А О\Программа\ShopMetta\obj\Debug\Views\Windows\Checkout.g.cs
+C:\Users\pomog\Desktop\ВКР Помогайбо А О\Программа\ShopMetta\obj\Debug\Views\Windows\EditClientWindow.g.cs
+C:\Users\pomog\Desktop\ВКР Помогайбо А О\Программа\ShopMetta\obj\Debug\Views\Windows\EditCreationForSellerWindow.g.cs
+C:\Users\pomog\Desktop\ВКР Помогайбо А О\Программа\ShopMetta\obj\Debug\Views\Windows\EditMasterWindow.g.cs
+C:\Users\pomog\Desktop\ВКР Помогайбо А О\Программа\ShopMetta\obj\Debug\Views\Windows\EditOrderCreationWindow.g.cs
+C:\Users\pomog\Desktop\ВКР Помогайбо А О\Программа\ShopMetta\obj\Debug\Views\Windows\EditOrderWindow.g.cs
+C:\Users\pomog\Desktop\ВКР Помогайбо А О\Программа\ShopMetta\obj\Debug\Views\Windows\EditProductsWindow.g.cs
+C:\Users\pomog\Desktop\ВКР Помогайбо А О\Программа\ShopMetta\obj\Debug\Views\Windows\EditUserWindow.g.cs
+C:\Users\pomog\Desktop\ВКР Помогайбо А О\Программа\ShopMetta\obj\Debug\Views\Windows\ExportTableWindow.g.cs
+C:\Users\pomog\Desktop\ВКР Помогайбо А О\Программа\ShopMetta\obj\Debug\Views\Windows\InfoOrderWindow.g.cs
+C:\Users\pomog\Desktop\ВКР Помогайбо А О\Программа\ShopMetta\obj\Debug\Views\Windows\MasterMenuWindow.g.cs
+C:\Users\pomog\Desktop\ВКР Помогайбо А О\Программа\ShopMetta\obj\Debug\Views\Windows\MoreInfoWindow.g.cs
+C:\Users\pomog\Desktop\ВКР Помогайбо А О\Программа\ShopMetta\obj\Debug\Views\Windows\SellerMenu.g.cs
+C:\Users\pomog\Desktop\ВКР Помогайбо А О\Программа\ShopMetta\obj\Debug\Views\Windows\MainWindow.g.cs
+C:\Users\pomog\Desktop\ВКР Помогайбо А О\Программа\ShopMetta\obj\Debug\Views\Pages\ProductsPage.g.cs
+C:\Users\pomog\Desktop\ВКР Помогайбо А О\Программа\ShopMetta\obj\Debug\Views\Pages\StartPage.g.cs
+C:\Users\pomog\Desktop\ВКР Помогайбо А О\Программа\ShopMetta\obj\Debug\Views\Windows\StatisticWindow.g.cs
+C:\Users\pomog\Desktop\ВКР Помогайбо А О\Программа\ShopMetta\obj\Debug\App.g.cs
+C:\Users\pomog\Desktop\ВКР Помогайбо А О\Программа\ShopMetta\obj\Debug\ShopMetta_MarkupCompile.cache
+C:\Users\pomog\Desktop\ВКР Помогайбо А О\Программа\ShopMetta\obj\Debug\ShopMetta_MarkupCompile.lref
+C:\Users\pomog\Desktop\ВКР Помогайбо А О\Программа\ShopMetta\obj\Debug\Views\Pages\BackupPage.baml
+C:\Users\pomog\Desktop\ВКР Помогайбо А О\Программа\ShopMetta\obj\Debug\Views\Pages\BasketPage.baml
+C:\Users\pomog\Desktop\ВКР Помогайбо А О\Программа\ShopMetta\obj\Debug\Views\Pages\CreateOrderPage.baml
+C:\Users\pomog\Desktop\ВКР Помогайбо А О\Программа\ShopMetta\obj\Debug\Views\Pages\MastersPage.baml
+C:\Users\pomog\Desktop\ВКР Помогайбо А О\Программа\ShopMetta\obj\Debug\Views\Pages\OrderPage.baml
+C:\Users\pomog\Desktop\ВКР Помогайбо А О\Программа\ShopMetta\obj\Debug\Views\Pages\StatisticPage.baml
+C:\Users\pomog\Desktop\ВКР Помогайбо А О\Программа\ShopMetta\obj\Debug\Views\Pages\UserPage.baml
+C:\Users\pomog\Desktop\ВКР Помогайбо А О\Программа\ShopMetta\obj\Debug\Views\Windows\AddClientWindow.baml
+C:\Users\pomog\Desktop\ВКР Помогайбо А О\Программа\ShopMetta\obj\Debug\Views\Windows\AddMasterWindow.baml
+C:\Users\pomog\Desktop\ВКР Помогайбо А О\Программа\ShopMetta\obj\Debug\Views\Windows\AddOrderCreateWindow.baml
+C:\Users\pomog\Desktop\ВКР Помогайбо А О\Программа\ShopMetta\obj\Debug\Views\Windows\AddProductsWindow.baml
+C:\Users\pomog\Desktop\ВКР Помогайбо А О\Программа\ShopMetta\obj\Debug\Views\Windows\AddUserWindow.baml
+C:\Users\pomog\Desktop\ВКР Помогайбо А О\Программа\ShopMetta\obj\Debug\Views\Windows\AdminMenuWindow.baml
+C:\Users\pomog\Desktop\ВКР Помогайбо А О\Программа\ShopMetta\obj\Debug\Views\Pages\ClientsPage.baml
+C:\Users\pomog\Desktop\ВКР Помогайбо А О\Программа\ShopMetta\obj\Debug\Views\Windows\Checkout.baml
+C:\Users\pomog\Desktop\ВКР Помогайбо А О\Программа\ShopMetta\obj\Debug\Views\Windows\EditClientWindow.baml
+C:\Users\pomog\Desktop\ВКР Помогайбо А О\Программа\ShopMetta\obj\Debug\Views\Windows\EditCreationForSellerWindow.baml
+C:\Users\pomog\Desktop\ВКР Помогайбо А О\Программа\ShopMetta\obj\Debug\Views\Windows\EditMasterWindow.baml
+C:\Users\pomog\Desktop\ВКР Помогайбо А О\Программа\ShopMetta\obj\Debug\Views\Windows\EditOrderCreationWindow.baml
+C:\Users\pomog\Desktop\ВКР Помогайбо А О\Программа\ShopMetta\obj\Debug\Views\Windows\EditOrderWindow.baml
+C:\Users\pomog\Desktop\ВКР Помогайбо А О\Программа\ShopMetta\obj\Debug\Views\Windows\EditProductsWindow.baml
+C:\Users\pomog\Desktop\ВКР Помогайбо А О\Программа\ShopMetta\obj\Debug\Views\Windows\EditUserWindow.baml
+C:\Users\pomog\Desktop\ВКР Помогайбо А О\Программа\ShopMetta\obj\Debug\Views\Windows\ExportTableWindow.baml
+C:\Users\pomog\Desktop\ВКР Помогайбо А О\Программа\ShopMetta\obj\Debug\Views\Windows\InfoOrderWindow.baml
+C:\Users\pomog\Desktop\ВКР Помогайбо А О\Программа\ShopMetta\obj\Debug\Views\Windows\MasterMenuWindow.baml
+C:\Users\pomog\Desktop\ВКР Помогайбо А О\Программа\ShopMetta\obj\Debug\Views\Windows\MoreInfoWindow.baml
+C:\Users\pomog\Desktop\ВКР Помогайбо А О\Программа\ShopMetta\obj\Debug\Views\Windows\SellerMenu.baml
+C:\Users\pomog\Desktop\ВКР Помогайбо А О\Программа\ShopMetta\obj\Debug\Views\Windows\MainWindow.baml
+C:\Users\pomog\Desktop\ВКР Помогайбо А О\Программа\ShopMetta\obj\Debug\Views\Pages\ProductsPage.baml
+C:\Users\pomog\Desktop\ВКР Помогайбо А О\Программа\ShopMetta\obj\Debug\Views\Pages\StartPage.baml
+C:\Users\pomog\Desktop\ВКР Помогайбо А О\Программа\ShopMetta\obj\Debug\Views\Windows\StatisticWindow.baml
+C:\Users\pomog\Desktop\ВКР Помогайбо А О\Программа\ShopMetta\obj\Debug\ShopMetta.g.resources
+C:\Users\pomog\Desktop\ВКР Помогайбо А О\Программа\ShopMetta\obj\Debug\ShopMetta.Properties.Resources.resources
+C:\Users\pomog\Desktop\ВКР Помогайбо А О\Программа\ShopMetta\obj\Debug\ShopMetta.csproj.GenerateResource.cache
+C:\Users\pomog\Desktop\ВКР Помогайбо А О\Программа\ShopMetta\obj\Debug\ShopMetta.csproj.CoreCompileInputs.cache
+C:\Users\pomog\Desktop\ВКР Помогайбо А О\Программа\ShopMetta\obj\Debug\ShopMetta.csproj.CopyComplete
+C:\Users\pomog\Desktop\ВКР Помогайбо А О\Программа\ShopMetta\obj\Debug\ShopMetta.exe
+C:\Users\pomog\Desktop\ВКР Помогайбо А О\Программа\ShopMetta\obj\Debug\ShopMetta.pdb

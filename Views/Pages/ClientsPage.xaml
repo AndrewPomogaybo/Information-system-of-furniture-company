@@ -1,0 +1,184 @@
+﻿<Page x:Class="ShopMetta.Views.Pages.ClientsPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:ShopMetta.Views.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="ClientsPage">
+
+    <Grid Background="#CCE5FF">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="43*"/>
+            <RowDefinition Height="361*"/>
+            <RowDefinition Height="4*"/>
+            <RowDefinition Height="35*"/>
+            <RowDefinition Height="7*"/>
+        </Grid.RowDefinitions>
+
+        <Grid Grid.Row="3">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="292*"/>
+                <ColumnDefinition Width="57*"/>
+                <ColumnDefinition Width="5*"/>
+                <ColumnDefinition Width="32*"/>
+                <ColumnDefinition Width="14*"/>
+                <ColumnDefinition Width="31*"/>
+                <ColumnDefinition Width="5*"/>
+                <ColumnDefinition Width="57*"/>
+                <ColumnDefinition Width="45*"/>
+                <ColumnDefinition Width="194*"/>
+                <ColumnDefinition Width="69*"/>
+            </Grid.ColumnDefinitions>
+
+            <Grid Grid.Column="9">
+                <Button Content="Добавить" FontSize="20" Background="White" x:Name="Add" Click="Add_Click">
+                    <Button.Resources>
+                        <Style TargetType="Border">
+                            <Setter Property="CornerRadius" Value="20"/>
+                        </Style>
+                    </Button.Resources>
+                </Button>
+            </Grid>
+        </Grid>
+
+        <Grid Grid.Row="1">
+            <DataGrid x:Name="Clients_dataGrid" SelectionUnit="FullRow"
+                        AutoGenerateColumns="False" 
+                        ColumnWidth="*" 
+                        IsReadOnly="True" 
+                        IsSynchronizedWithCurrentItem="True" 
+                        FontFamily="Britannic Bold" 
+                        HorizontalContentAlignment ="Center"
+                        Background="#FFE5CC"
+                        SelectionChanged="Clients_dataGrid_SelectionChanged">
+                <DataGrid.Columns>
+
+                    <DataGridTemplateColumn Header="Идентификатор">
+                        <DataGridTemplateColumn.CellTemplate>
+                            <DataTemplate>
+                                <TextBlock Text="{Binding Client_id}" TextWrapping="Wrap" FontSize="40" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                            </DataTemplate>
+                        </DataGridTemplateColumn.CellTemplate>
+                    </DataGridTemplateColumn>
+
+                    <DataGridTemplateColumn Header="Имя">
+                        <DataGridTemplateColumn.CellTemplate>
+                            <DataTemplate>
+                                <TextBlock Text="{Binding MaskedName}" TextWrapping="Wrap" FontSize="40" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                            </DataTemplate>
+                        </DataGridTemplateColumn.CellTemplate>
+                    </DataGridTemplateColumn>
+
+                    <DataGridTemplateColumn Header="Фамилия">
+                        <DataGridTemplateColumn.CellTemplate>
+                            <DataTemplate>
+                                <TextBlock Text="{Binding Client_surname}" TextWrapping="Wrap" FontSize="40" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                            </DataTemplate>
+                        </DataGridTemplateColumn.CellTemplate>
+                    </DataGridTemplateColumn>
+
+                    <DataGridTemplateColumn Header="Отчество">
+                        <DataGridTemplateColumn.CellTemplate>
+                            <DataTemplate>
+                                <TextBlock Text="{Binding MaskedPatronymic}" TextWrapping="Wrap" FontSize="40" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                            </DataTemplate>
+                        </DataGridTemplateColumn.CellTemplate>
+                    </DataGridTemplateColumn>
+
+                    <DataGridTemplateColumn Header="Возраст">
+                        <DataGridTemplateColumn.CellTemplate>
+                            <DataTemplate>
+                                <TextBlock Text="{Binding Client_age}" TextWrapping="Wrap" FontSize="40" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                            </DataTemplate>
+                        </DataGridTemplateColumn.CellTemplate>
+                    </DataGridTemplateColumn>
+
+                    <DataGridTemplateColumn Header="Номер телефона">
+                        <DataGridTemplateColumn.CellTemplate>
+                            <DataTemplate>
+                                <TextBlock Text="{Binding MaskedPhoneNumber}" TextWrapping="Wrap" FontSize="40" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                            </DataTemplate>
+                        </DataGridTemplateColumn.CellTemplate>
+                    </DataGridTemplateColumn>
+
+                    <DataGridTemplateColumn Header="" Width="40" >
+                        <DataGridTemplateColumn.CellTemplate>
+                            <DataTemplate>
+                                <Image Source="resources/delete.png" x:Name="delete" MouseLeftButtonDown="delete_MouseLeftButtonDown"/>
+                            </DataTemplate>
+                        </DataGridTemplateColumn.CellTemplate>
+                    </DataGridTemplateColumn>
+
+                    <DataGridTemplateColumn Header="" Width="40" >
+                        <DataGridTemplateColumn.CellTemplate>
+                            <DataTemplate>
+                                <Image Source="resources/edit.png" x:Name="edit" MouseLeftButtonDown="edit_MouseLeftButtonDown"/>
+                            </DataTemplate>
+                        </DataGridTemplateColumn.CellTemplate>
+                    </DataGridTemplateColumn>
+
+                </DataGrid.Columns>
+            </DataGrid>
+        </Grid>
+
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="41*"/>
+                <ColumnDefinition Width="5*"/>
+                <ColumnDefinition Width="148*"/>
+                <ColumnDefinition Width="6*"/>
+                <ColumnDefinition Width="399*"/>
+                <ColumnDefinition Width="7*"/>
+                <ColumnDefinition Width="148*"/>
+                <ColumnDefinition Width="46*"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="20*"/>
+                <RowDefinition Height="23*"/>
+            </Grid.RowDefinitions>
+
+            <Grid Grid.Row="1">
+                <Image Source="resources/refresh.png" x:Name="refreshData" MouseLeftButtonDown="refreshData_MouseLeftButtonDown"/>
+            </Grid>
+
+            <Grid Grid.Column="2">
+                <TextBlock Text="Сортировать" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="18"/>
+            </Grid>
+
+            <Grid Grid.Column="4">
+                <TextBlock Text="Поиск" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="18"/>
+            </Grid>
+
+            <Grid Grid.Column="6">
+                <TextBlock Text="Фильтр" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="18"/>
+            </Grid>
+
+            <Grid Grid.Row="1" Grid.Column="2">
+                <ComboBox x:Name="Sort_combobox" SelectionChanged="Sort_combobox_SelectionChanged" FontSize="30" HorizontalContentAlignment="Center">
+                    <ComboBoxItem Content ="По алфавиту"/>
+                    <ComboBoxItem Content ="В обратном порядке"/>
+                    <ComboBoxItem Content ="Сбросить"/>
+                </ComboBox>
+            </Grid>
+
+            <Grid Grid.Row="1" Grid.Column="4">
+                <TextBox FontSize="25" TextAlignment="Center" TextChanged="Search_txtbox_TextChanged" x:Name="Search_txtbox">
+                    <TextBox.Resources>
+                        <Style TargetType="Border">
+                            <Setter Property="CornerRadius" Value="15"/>
+                        </Style>
+                    </TextBox.Resources>
+                </TextBox>
+            </Grid>
+
+            <Grid Grid.Row="1" Grid.Column="6">
+                <ComboBox x:Name="Filter_combobox" FontSize="30" HorizontalContentAlignment="Center" SelectionChanged="Filter_combobox_SelectionChanged"/>
+            </Grid>
+
+        </Grid>
+
+
+    </Grid>
+</Page>

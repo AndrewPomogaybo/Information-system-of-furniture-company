@@ -1,0 +1,212 @@
+﻿<Page x:Class="ShopMetta.Views.Pages.BasketPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:ShopMetta.Views.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="BasketPage">
+
+    <Grid Background="#CCE5FF">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0*"/>
+            <RowDefinition Height="56*"/>
+            <RowDefinition Height="19*"/>
+        </Grid.RowDefinitions>
+
+        <Grid Margin="0,0,0,336" Grid.RowSpan="2">
+
+
+            <Grid Grid.Row="1">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="10*"/>
+                    <ColumnDefinition Width="38*"/>
+                    <ColumnDefinition Width="753*"/>
+                </Grid.ColumnDefinitions>
+
+
+
+            </Grid>
+
+        </Grid>
+
+        <Grid Grid.Row="1">
+            <DataGrid x:Name="Basket_dataGrid" Background="#FFE5CC" SelectionUnit="FullRow"
+                                                                    AutoGenerateColumns="False" 
+                                                                    ColumnWidth="*" 
+                                                                    IsReadOnly="True" 
+                                                                    IsSynchronizedWithCurrentItem="True" 
+                                                                    FontFamily="Britannic Bold" 
+                                                                    HorizontalContentAlignment ="Center"
+                                                                    Loaded="Basket_dataGrid_Loaded"
+                                                                    SelectionChanged="Basket_dataGrid_SelectionChanged"
+                                                                    HorizontalAlignment="Stretch"
+                                                                    VerticalAlignment="Stretch">
+                <DataGrid.Columns>
+                    <DataGridTemplateColumn Header="Артикул">
+                        <DataGridTemplateColumn.CellTemplate>
+                            <DataTemplate>
+                                <TextBlock Text="{Binding Basket_id}" TextWrapping="Wrap" FontSize="30"/>
+                            </DataTemplate>
+                        </DataGridTemplateColumn.CellTemplate>
+                    </DataGridTemplateColumn>
+
+                    <DataGridTemplateColumn Header="Наименование">
+                        <DataGridTemplateColumn.CellTemplate>
+                            <DataTemplate>
+                                <TextBlock Text="{Binding Product.Product_name}" TextWrapping="Wrap" FontSize="30"/>
+                            </DataTemplate>
+                        </DataGridTemplateColumn.CellTemplate>
+                    </DataGridTemplateColumn>
+
+                    <DataGridTemplateColumn Header="Описание">
+                        <DataGridTemplateColumn.CellTemplate>
+                            <DataTemplate>
+                                <TextBlock Text="{Binding Product.Product_description}" TextWrapping="Wrap" FontSize="30"/>
+                            </DataTemplate>
+                        </DataGridTemplateColumn.CellTemplate>
+                    </DataGridTemplateColumn>
+
+                    <DataGridTemplateColumn Header="Количество">
+                        <DataGridTemplateColumn.CellTemplate>
+                            <DataTemplate>
+                                <TextBlock Text="{Binding Basket_amount}" TextWrapping="Wrap" FontSize="30"/>
+                            </DataTemplate>
+                        </DataGridTemplateColumn.CellTemplate>
+                    </DataGridTemplateColumn>
+
+                    <DataGridTemplateColumn Header="Цена">
+                        <DataGridTemplateColumn.CellTemplate>
+                            <DataTemplate>
+                                <TextBlock Text="{Binding Basket_totalPrice}" TextWrapping="Wrap" FontSize="30"/>
+                            </DataTemplate>
+                        </DataGridTemplateColumn.CellTemplate>
+                    </DataGridTemplateColumn>
+
+                    <DataGridTextColumn Header="Картинка" Binding="{Binding Basket_image}" FontSize="40" Visibility="Hidden"/>
+                    <DataGridTemplateColumn Header="Изображение" Width="120" >
+                        <DataGridTemplateColumn.CellTemplate>
+                            <DataTemplate>
+                                <Image Source="{Binding Image}" />
+                            </DataTemplate>
+                        </DataGridTemplateColumn.CellTemplate>
+                    </DataGridTemplateColumn>
+
+
+
+                    <DataGridTemplateColumn Header="" Width="60" >
+                        <DataGridTemplateColumn.CellTemplate>
+                            <DataTemplate>
+                                <Image Source="resources/delete.png" MouseLeftButtonDown="Image_MouseLeftButtonDown"/>
+                            </DataTemplate>
+                        </DataGridTemplateColumn.CellTemplate>
+                    </DataGridTemplateColumn>
+                </DataGrid.Columns>
+
+
+
+            </DataGrid>
+        </Grid>
+
+        <Grid Grid.Row="2">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="383*"/>
+                <ColumnDefinition Width="417*"/>
+            </Grid.ColumnDefinitions>
+
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="48*"/>
+                    <RowDefinition Height="49*"/>
+                    <RowDefinition Height="60*"/>
+                </Grid.RowDefinitions>
+
+                <Grid Grid.Row="1">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="211*"/>
+                        <ColumnDefinition Width="265*"/>
+                        <ColumnDefinition Width="7*"/>
+                        <ColumnDefinition Width="128*"/>
+                        <ColumnDefinition Width="6*"/>
+                    </Grid.ColumnDefinitions>
+
+                    <Grid Grid.Column="1">
+                        <Button Content="Оформить заказ" FontSize="20" Background="White" x:Name="addOrder" Click="addOrder_Click">
+                            <Button.Resources>
+                                <Style TargetType="Border">
+                                    <Setter Property="CornerRadius" Value="20"/>
+                                </Style>
+                            </Button.Resources>
+                        </Button>
+                    </Grid>
+
+                    <Grid Grid.Column="3">
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="7*"/>
+                            <RowDefinition Height="28*"/>
+                            <RowDefinition Height="5*"/>
+                        </Grid.RowDefinitions>
+
+                    </Grid>
+
+
+                </Grid>
+
+
+
+            </Grid>
+
+            <Grid Grid.Column="1">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="8*"/>
+                    <RowDefinition Height="143*"/>
+                    <RowDefinition Height="8*"/>
+                </Grid.RowDefinitions>
+
+                <Grid Grid.Row="1">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="7*"/>
+                        <ColumnDefinition Width="217*"/>
+                        <ColumnDefinition Width="193*"/>
+                    </Grid.ColumnDefinitions>
+
+                    <Grid Grid.Column="1">
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="9*"/>
+                            <RowDefinition Height="92*"/>
+                            <RowDefinition/>
+                        </Grid.RowDefinitions>
+
+
+                        <Grid Margin="0,9,0,3" Grid.RowSpan="2">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="3*"/>
+                                <ColumnDefinition Width="49*"/>
+                                <ColumnDefinition Width="3*"/>
+                                <ColumnDefinition Width="37*"/>
+                                <ColumnDefinition Width="3*"/>
+                            </Grid.ColumnDefinitions>
+
+                            <Grid Grid.Column="1">
+                                <TextBlock Text="Сумма" VerticalAlignment="Center" TextAlignment="Center" FontSize="30" />
+                            </Grid>
+
+                            <Grid Grid.Column="3">
+                                <TextBlock Text="0" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="24" x:Name="totalSum"/>
+                            </Grid>
+
+                        </Grid>
+
+                    </Grid>
+
+                </Grid>
+
+            </Grid>
+
+
+
+        </Grid>
+
+    </Grid>
+</Page>

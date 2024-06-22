@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopMetta", "ShopMetta.csproj", "{C62EEB6A-0D08-4333-B276-E4994FA6EB8E}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "..\Setup\Setup.vdproj", "{AA8A73A9-F67C-495C-B96A-F73A6551D115}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C62EEB6A-0D08-4333-B276-E4994FA6EB8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C62EEB6A-0D08-4333-B276-E4994FA6EB8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C62EEB6A-0D08-4333-B276-E4994FA6EB8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C62EEB6A-0D08-4333-B276-E4994FA6EB8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA8A73A9-F67C-495C-B96A-F73A6551D115}.Debug|Any CPU.ActiveCfg = Debug
+		{AA8A73A9-F67C-495C-B96A-F73A6551D115}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {73CCB8E5-8656-409B-AF0F-DA18923EB4F4}
+	EndGlobalSection
+EndGlobal
